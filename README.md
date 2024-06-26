@@ -8,16 +8,18 @@ Source code for the interactive installation **Memoirs of the Blind**
 > *The artwork becomes a testimony of its visitors, interacting with it, but not seeing it: a moment where the visitor becomes at the same time subject and object.*
 
 
-## Documentation
+## Artwirj Documentation
 
-Please refer to https://laurenzo.net/memoirs for text and videos.
+Please see to https://laurenzo.net/memoirs 
 
 
 ## Acknowledgments
-This code based on **[Andrés Cuervo](https://cwervo.com/)**'s [example-face-tracking](https://github.com/cwervo/ofxARKit-12-example-face-tracking) for [OpenFrameworks](http://openframeworks.cc)
+I used **[Andrés Cuervo](https://cwervo.com/)**'s [example-face-tracking](https://github.com/cwervo/ofxARKit-12-example-face-tracking) for [OpenFrameworks](http://openframeworks.cc) as a starting point. Thanks Andrés!
 
-### Requirements
+## Requirements
 
 1. [iOS OpenFrameworks 0.10.0](https://openframeworks.cc/download/) 
 2. [ofxARKit](https://github.com/sortofsleepy/ofxARKit)
+
+
 
