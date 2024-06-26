@@ -8,7 +8,7 @@ Source code for the interactive installation **Memoirs of the Blind**
 > *The artwork becomes a testimony of its visitors, interacting with it, but not seeing it: a moment where the visitor becomes at the same time subject and object.*
 
 
-## Artwirj Documentation
+## Artwork Documentation
 
 Please see to https://laurenzo.net/memoirs 
 
